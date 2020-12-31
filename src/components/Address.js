@@ -5,7 +5,7 @@ import Typography from "@material-ui/core/Typography";
 import { withStyles } from "@material-ui/core/styles";
 import Button from "@material-ui/core/Button";
 import Card from "@material-ui/core/Card";
-import { Route, Link } from "react-router-dom";
+import {  Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
 import Box from "@material-ui/core/Box";

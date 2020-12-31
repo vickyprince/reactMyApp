@@ -1,10 +1,10 @@
-import React, { Component, lazy, Suspense } from "react";
+import React, { Component, Suspense } from "react";
 import { Route, BrowserRouter, Switch } from "react-router-dom";
 import "./App.css";
 import Exchange from './components/Exchange';
 import Login from './components/Login';
 import Layout from './components/Layout';
-import LayoutDetails from './components/LayoutDetails';
+// import LayoutDetails from './components/LayoutDetails';
 
 import Details from './components/Details';
 import Delivery from './components/Delivery';
